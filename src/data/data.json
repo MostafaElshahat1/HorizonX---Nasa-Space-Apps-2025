@@ -1,0 +1,57 @@
+{
+  "yearlyData": [
+    { "year": 2023, "papers": 323 },
+    { "year": 2024, "papers": 361 }
+  ],
+
+  "distribution2023": [
+    { "name": "Biology & Biotechnology", "value": 144 },
+    { "name": "Earth & Space", "value": 17 },
+    { "name": "Educational & Cultural", "value": 47 },
+    { "name": "Human Research", "value": 61 },
+    { "name": "Physical Science", "value": 37 },
+    { "name": "Technology Development", "value": 17 }
+  ],
+
+  "distribution2024": [
+    { "name": "Biology & Biotechnology", "value": 52 },
+    { "name": "Earth & Space", "value": 176 },
+    { "name": "Educational & Cultural", "value": 5 },
+    { "name": "Human Research", "value": 40 },
+    { "name": "Physical Science", "value": 56 },
+    { "name": "Technology Development", "value": 32 }
+  ],
+
+  "categoriesComparison": [
+    {
+      "category": "Biology & Biotechnology",
+      "2023": 144,
+      "2024": 52
+    },
+    {
+      "category": "Earth & Space",
+      "2023": 17,
+      "2024": 176
+    },
+    {
+      "category": "Educational & Cultural",
+      "2023": 47,
+      "2024": 5
+    },
+    {
+      "category": "Human Research",
+      "2023": 61,
+      "2024": 40
+    },
+    {
+      "category": "Physical Science",
+      "2023": 37,
+      "2024": 56
+    },
+    {
+      "category": "Technology Development",
+      "2023": 17,
+      "2024": 32
+    }
+  ]
+}
